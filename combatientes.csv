@@ -1,0 +1,5 @@
+tipo,nombre,vida,ataque,esJefe
+Orco,Grom,60,18,false
+Orco,Grommash,100,25,true
+Esqueleto,Bonehead,40,12,false
+Esqueleto,Lich King,90,22,true

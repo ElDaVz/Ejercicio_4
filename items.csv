@@ -1,0 +1,7 @@
+nombre,tipo,efecto,descripcion
+Poción de Vida,curacion,50,Restaura 50 HP
+Poción Grande,curacion,100,Restaura 100 HP
+Poción de Fuerza,ataque,15,Aumenta ataque temporalmente
+Escudo Mágico,defensa,10,Reduce daño recibido
+Elixir Rápido,velocidad,1,Permite atacar dos veces
+Mega Poción,curacion,75,Restaura 75 HP
