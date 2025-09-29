@@ -16,7 +16,7 @@ Simulador de batalla RPG que permite enfrentar jugadores contra enemigos en comb
 ## Instalación y Ejecución
 
 1. Clonar el repositorio
-git clone https://github.com/ElDaVz/Ejercicio_4_Batalla_RPG.git
+git clone https://github.com/ElDaVz/Ejercicio_4.git
 cd Ejercicio_4
 
 Compilar el proyecto
